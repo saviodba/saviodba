@@ -1,5 +1,10 @@
 # Bem-vindo(a) ao meu perfil do GitHub!👋
 
+## Sobre mim
+- Nome: Sávio Pereira
+- Localização: Cotia-SP
+- Interesses: Programação fontend, backend e mobile
+  
 <!--
 **saviodba/saviodba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
